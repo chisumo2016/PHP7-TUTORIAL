@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc19b39a-1f7b-4754-bc4a-a9893452e78e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/return_data_type_declarations.php" afterPath="$PROJECT_DIR$/return_data_type_declarations.php" />
-    </list>
+    <list default="true" id="bc19b39a-1f7b-4754-bc4a-a9893452e78e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,11 +12,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="null_coelescing_operator.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/null_coelescing_operator.php">
+      <file leaf-file-name="spaceship_operator.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spaceship_operator.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="608">
+              <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -38,6 +34,7 @@
         <option value="$PROJECT_DIR$/object_type_declaration.php" />
         <option value="$PROJECT_DIR$/return_data_type_declarations.php" />
         <option value="$PROJECT_DIR$/null_coelescing_operator.php" />
+        <option value="$PROJECT_DIR$/spaceship_operator.php" />
       </list>
     </option>
   </component>
@@ -183,12 +180,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516482925656</updated>
-      <workItem from="1516482928107" duration="6705000" />
+      <workItem from="1516482928107" duration="7954000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6705000" />
+    <option name="totallyTimeSpent" value="7954000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="15" width="1616" height="876" extended-state="0" />
@@ -252,8 +249,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/null_coelescing_operator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="493">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spaceship_operator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding />
         </state>
       </provider>
