@@ -1,72 +1,184 @@
 <?php
-/* Object Type Declaration   */
+
+/**/
+/*RETURN TYPE DECLARATION new in php 7 we may return and array or object*/
 /*
-function parse(array  $kit){
-    echo '<pre>'. json_encode($kit, JSON_PRETTY_PRINT).'</pre>';
+function dataReturn()
+{
+    return "This is what the function will give back";
 }
 
-$arr = array("hello", "world", "another", "word");
-
-$arr = array("test" =>"hello") ; // Associative array .Key and Value
-
-parse($arr);
+echo var_export(dataReturn() );
 
 */
 
 /*
- *
- *
-function parse(callable  $callback){
-
-    echo "This string came from the parse function <br/></br>";
-
-    $callback();
+//integer
+function dataReturn(): int
+{
+    return 20;  //
 }
-parse( function (){
-    echo "COLLLABLE FUNCTION -This came from the callback function.";
-});
 
-// or
-$func = function (){
-    echo "COLLLABLE FUNCTION -This came from the callback function.";
-};
-
-parse($func);
+echo var_export(dataReturn() );
 
 */
+/*
+//Float
+function dataReturn(): float
+{
+    return 20;  //   true , string , integer
+}
 
+echo var_export(dataReturn() );
+
+*/
 
 /*
-interface  checker{}
-class cake implements  checker {}
-
-class salad implements  checker {}
-
-function restraunt (checker $food){
-    echo var_dump($food);
+//Boolean
+function dataReturn(): bool
+{
+    return 20;  //   true , string , integer
 }
 
+echo var_export(dataReturn() );
+*/
 
-$box = new salad;
-restraunt($box);
+/*
+//String
+function dataReturn(): string
+{
+    return 20;  //   true , string , integer
+}
+
+echo var_export(dataReturn() );
 
 */
 
-//Self must be used within the class or itseld
+/*
+//Data Object  array
 
-class  cake{
-    function  icing (self $thisCake)    //self $thisCake= new cake
-    {
-        echo 'Cake to ice : <br>';
-        echo var_dump($thisCake);
+//Array
+function dataReturn(): array
+{
+    //return array(20, 'hello');  //   true , string , integer
+    return array('hello' => "Tanzanioa");  // Associative array
+}
+
+echo var_export(dataReturn() );
+*/
+
+// CLASS
+
+/*
+class myOBJ { }
+class cake {}
+    function  dataReturn() : myOBJ{
+
+        return new cake;
+    }
+
+    echo var_export(dataReturn());
+*/
+
+/*interface  register { } // check if the class has method or properties
+
+class myOBJ implements  Register{ }
+class cake {}
+function  dataReturn() : register{
+
+    return new myOBJ;
+}
+
+echo var_export(dataReturn());
+
+*/
+
+// Callable
+/*
+function  dataReturn(): callable {  // call/ return  function
+
+    return  function (){echo "hello" ;};
+}
+
+echo var_export(dataReturn()); */
+
+//  SELF   used within the class
+
+class  myOBJ{
+
+    function  dataReturn($object): self {  // used within the class
+
+        return  $object;
     }
 }
 
-class pudding {}
+class cake{}
+$a = new myOBJ;
+echo var_export($a->dataReturn(   new myOBJ  ));
 
-$Cake1 = new cake;
-$Cake2 = new cake;
-$Cake2->icing($Cake1);  //invoking and passing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
