@@ -12,7 +12,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="php7_depricated_features.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="php7_depricated_features.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php7_depricated_features.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -20,6 +20,16 @@
               <folding>
                 <element signature="e#6#101#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conclusion.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/conclusion.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -56,6 +66,7 @@
         <option value="$PROJECT_DIR$/generator_yielding_datatype.php" />
         <option value="$PROJECT_DIR$/php7_generator_new_features.php" />
         <option value="$PROJECT_DIR$/php7_depricated_features.php" />
+        <option value="$PROJECT_DIR$/conclusion.php" />
       </list>
     </option>
   </component>
@@ -201,15 +212,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516482925656</updated>
-      <workItem from="1516482928107" duration="23451000" />
+      <workItem from="1516482928107" duration="23807000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23451000" />
+    <option name="totallyTimeSpent" value="23807000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="15" width="1616" height="876" extended-state="0" />
+    <frame x="-2" y="15" width="1616" height="876" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -450,6 +461,14 @@
           <folding>
             <element signature="e#6#101#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conclusion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
