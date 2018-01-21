@@ -2,7 +2,7 @@
 
 // prevent conflict
 
-namespace  avelx\Complicated;
+namespace  avelx\complicated;
 
 class  hello{
     function  __construct()
