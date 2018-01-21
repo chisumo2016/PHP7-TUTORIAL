@@ -12,21 +12,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="session_options.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/session_options.php">
+      <file leaf-file-name="random_bytes_random_int_function.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/random_bytes_random_int_function.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="47" lean-forward="false" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logged.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logged.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="50" lean-forward="false" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+            <state relative-caret-position="119">
+              <caret line="7" column="51" lean-forward="false" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -57,6 +47,7 @@
         <option value="$PROJECT_DIR$/integer_division.php" />
         <option value="$PROJECT_DIR$/session_options.php" />
         <option value="$PROJECT_DIR$/logged.php" />
+        <option value="$PROJECT_DIR$/random_bytes_random_int_function.php" />
       </list>
     </option>
   </component>
@@ -202,12 +193,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516482925656</updated>
-      <workItem from="1516482928107" duration="15426000" />
+      <workItem from="1516482928107" duration="15859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15426000" />
+    <option name="totallyTimeSpent" value="15859000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="15" width="1616" height="876" extended-state="0" />
@@ -373,6 +364,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="47" lean-forward="false" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/random_bytes_random_int_function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="51" lean-forward="false" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
           <folding />
         </state>
       </provider>
