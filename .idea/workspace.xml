@@ -12,24 +12,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="constant_arrays_using_define.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/constant_arrays_using_define.php">
+      <file leaf-file-name="unicode_codepoint_escape_syntax.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/unicode_codepoint_escape_syntax.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="119">
+              <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="anonymous_class.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/anonymous_class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-              <folding>
-                <marker date="1516492647137" expanded="false" signature="700:1051" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -49,6 +37,7 @@
         <option value="$PROJECT_DIR$/spaceship_operator.php" />
         <option value="$PROJECT_DIR$/constant_arrays_using_define.php" />
         <option value="$PROJECT_DIR$/anonymous_class.php" />
+        <option value="$PROJECT_DIR$/unicode_codepoint_escape_syntax.php" />
       </list>
     </option>
   </component>
@@ -194,12 +183,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516482925656</updated>
-      <workItem from="1516482928107" duration="9667000" />
+      <workItem from="1516482928107" duration="10051000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9667000" />
+    <option name="totallyTimeSpent" value="10051000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="15" width="1616" height="876" extended-state="0" />
@@ -287,11 +276,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/anonymous_class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="425">
+          <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
           <folding>
             <marker date="1516492647137" expanded="false" signature="700:1051" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unicode_codepoint_escape_syntax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
