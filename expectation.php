@@ -31,7 +31,7 @@ ini_set('assert.exception', 1);  // Enabling
 class  HandleError extends  AssertionError {
 
 
-    
+
     // some props / method and so forth here
 }
 
